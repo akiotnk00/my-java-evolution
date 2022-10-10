@@ -1,4 +1,4 @@
-package testes;
+package main;
 
 public class DinamicaException {
 
