@@ -1,4 +1,4 @@
-package main;
+package Testes;
 
 import java.util.Objects;
 import java.util.Scanner;

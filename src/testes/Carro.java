@@ -1,4 +1,4 @@
-package main.java;
+package Testes;
 
 public class Carro {
 	private String placa;
