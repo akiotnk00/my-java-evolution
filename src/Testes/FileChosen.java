@@ -2,6 +2,8 @@ package Testes;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.LocalDate;
+import java.util.Date;
 
 import javax.swing.JFileChooser;
 
@@ -49,6 +51,8 @@ public class FileChosen {
 			e.printStackTrace();
 		}
 		
+		LocalDate locdate = LocalDate.now();
+		System.out.println(locdate);
 
 	}
 }
